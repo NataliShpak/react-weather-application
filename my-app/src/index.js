@@ -7,17 +7,18 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    <div class="container">
-    <React.StrictMode>
-    <App />
-  </React.StrictMode>
+      <React.StrictMode>
+      <App />
       <div id="weather" class="weather-container"></div>
-      <small
-        ><a href="https://github.com/NataliShpak/react-weather-application" target="_blank"
-          >Open-source code</a
-        >, by Nataliia Shpak from
-        <a href="https://shecodes.io/">She Codes</a></small
-      >
+        <small
+          ><a href="https://github.com/NataliShpak/react-weather-application" target="_blank"
+            >Open-source code</a
+          >, by Nataliia Shpak from
+          <a href="https://shecodes.io/">She Codes</a></small
+        >
     </div>
+  </React.StrictMode>
+      
   
 );
 
