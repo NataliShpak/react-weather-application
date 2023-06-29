@@ -10,10 +10,12 @@ function App() {
       <h1>
         React weather application
       </h1>
+      
        <WeatherSearch />
       <footer>
         <a href='https://github.com/NataliShpak/react-weather-application' target='_blank'>Open-source code on GitHub</a> by Nataliia Shpak
       </footer>
+      
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
