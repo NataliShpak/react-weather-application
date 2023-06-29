@@ -11,11 +11,6 @@ function App() {
         React weather application
       </h1>
        <WeatherSearch />
-       <small>
-        <a href="https://github.com/seheichenko-anna/weather-react.git">
-          Open-source code
-        </a>
-      </small>
       <footer>
         <a href='https://github.com/NataliShpak/react-weather-application' target='_blank'>Open-source code on GitHub</a> by Nataliia Shpak
       </footer>
